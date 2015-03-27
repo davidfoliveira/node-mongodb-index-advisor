@@ -1,0 +1,29 @@
+{
+  "author": "David Oliveira <d.oliveira@prozone.org>",
+  "name": "mongodb-index-advisor",
+  "description": "A MongoDB index suggestion module",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidfoliveira/node-mongodb-index-advisor/"
+  },
+  "main": "./index-advisor",
+  "bin": { },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "license": "Copyleft",
+  "engines": {
+    "node": ">=0.10.5"
+  },
+  "scripts": {
+    "test": "./run_tests"
+  },
+  "keywords": [
+    "mongodb",
+    "index",
+    "hint",
+    "suggestion",
+    "advisor"
+  ]
+}
